@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "690744bb61b3e6e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f9e4b2216ac7fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Book/End To End Project/Prepare the Data for ML.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "313fdc77c4e2d1dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "034f2734f372c572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf5961d97a1e0e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2bd471efb8cd412c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "virtual env",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.0107650756836
+  },
+  "right": {
+    "id": "53e629994bc7b889",
+    "type": "split",
+    "children": [
+      {
+        "id": "071cb2b33c96b6c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33070ecf453a541",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book/End To End Project/Prepare the Data for ML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "31f9e4b2216ac7fe",
+  "lastOpenFiles": [
+    "Book/End To End Project/Get Data.md",
+    "Book/Python/Virtual Environments.md",
+    "Book/End To End Project/Prepare the Data for ML.md",
+    "Book/End To End Project/Fine Tuning.md",
+    "Pandas/Descriptive Statistics.md",
+    "Pandas/10 minutes to pandas.md",
+    "2nd Course/C2/Multiclass Classification.md",
+    "2nd Course/C2/Decision Trees.md",
+    "Scikit-Learn/Custom Estimators & Pipelines.md",
+    "Book/End To End Project/Select and Train a Model.md"
+  ]
+}
