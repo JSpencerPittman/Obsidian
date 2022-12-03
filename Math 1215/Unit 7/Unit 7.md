@@ -1,0 +1,6 @@
+[[7.1 Inverse Functions]]
+[[7.2 Natural Log and Exp Functions]]
+[[7.3 Logarithmic and Exponential Functions]]
+[[7.5 Inverse Trigonometric Functions]]
+[[7.6 L'Hôpital's Rule]]
+[[7.7 Hyperbolic Functions]]

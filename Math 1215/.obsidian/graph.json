@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Unit 7\"",
+      "color": {
+        "a": 1,
+        "rgb": 936382
+      }
+    },
+    {
+      "query": "path:\"Unit 6\"",
+      "color": {
+        "a": 1,
+        "rgb": 15901186
+      }
+    },
+    {
+      "query": "path:\"Unit 8\"",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "file:\"Math 1215\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.50102831196581,
+  "lineSizeMultiplier": 3.12290998931624,
+  "collapse-forces": false,
+  "centerStrength": 0.269224016853933,
+  "repelStrength": 8.77896769662921,
+  "linkStrength": 0.601957514044944,
+  "linkDistance": 251,
+  "scale": 0.7528979569712363,
+  "close": true
+}

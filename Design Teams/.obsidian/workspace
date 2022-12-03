@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "67b709ec5afbfae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "67be2a77951ec645",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MRDT/Utilities/Pipenv.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a735e1827a34f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "254b1fef9d410081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c250b92b2182b06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "170b19e0c53df5fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "294688a427431dee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb4eb3a6925a7920",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa55643fdc34dca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18665ad7444925e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MRDT/Utilities/Pipenv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebfe3c4230d9eaae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MRDT/Utilities/Pipenv.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc9449678930e16f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7277778732fd10e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MRDT/Utilities/Pipenv.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "67be2a77951ec645",
+  "lastOpenFiles": [
+    "MRDT/Utilities/PyTest.md",
+    "MRDT/Utilities/Pipenv.md"
+  ]
+}

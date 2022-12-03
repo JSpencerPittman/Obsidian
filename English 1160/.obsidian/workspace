@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "fac5b6a928bc614c",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f580bceef3ffb1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Book/Chapter 13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03760fbb65c2deaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "803f77075ae859d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a3539613992283",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acfdb4bba104be6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "306c26687f94dd90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "197e9b91c1995bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d21df5d5e523d507",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2322b3ffe71ddc37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book/Chapter 13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee706764d20887a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book/Chapter 13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af09a69597100e1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24a882211acc99ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Book/Chapter 13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "65f580bceef3ffb1",
+  "lastOpenFiles": [
+    "Book/Introductions.md",
+    "Book/Introduction.md",
+    "Book/Chapter 17.md",
+    "Book/Chapter 7.md",
+    "Book/Chapter 13.md",
+    "Research/Sources/Source 11.md",
+    "Research/Sources/Source 10.md",
+    "Research/Sources/Source 5.md",
+    "Research/Sources/Connection To the Field.md",
+    "Research/Sources/Source 7.md"
+  ]
+}

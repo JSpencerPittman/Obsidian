@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6fc33a85f2abf205",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d904e01dd9a347d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Part 2/Image Recognition and CNN's.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc36c2421173e41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "974cacf8818c6f8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ee249f4f7fc2a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a99ea578bbdce29f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "k neighbors",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f9aeb5dbffe6066",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7726d9e0a30debc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dec3136a492377a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52577bb3a754c585",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part 2/Image Recognition and CNN's.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a4784ae9ae88f82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Part 2/Image Recognition and CNN's.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3cac4e0eb7614114",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bf1349990f425c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part 2/Image Recognition and CNN's.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d904e01dd9a347d",
+  "lastOpenFiles": [
+    "Part 2/Training Deep Neural Networks/The Vanishing-Exploding Gradients Problem.md",
+    "Part 2/Image Recognition and CNN's.md",
+    "Part 2/Neural Network and Keras/Fine Tuning NN Hyperparemeters.md",
+    "Part 2/Neural Network and Keras/Introduction.md",
+    "Part1/Ensemble Learning and Random Forests/Boosting.md",
+    "Part1/Ensemble Learning and Random Forests/Bagging and Pasting.md",
+    "Part1/Unsupervised Learning Techniques/DBScan.md",
+    "Part1/Unsupervised Learning Techniques/K-Means.md",
+    "Part1/Unsupervised Learning Techniques/Gaussian MIxtures.md",
+    "Part1/Training Models/Regularize Linear Models.md"
+  ]
+}

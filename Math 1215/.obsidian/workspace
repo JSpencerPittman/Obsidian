@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6c1d7330ae50cd77",
+    "type": "split",
+    "children": [
+      {
+        "id": "bccf7f0877e9f3c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unit 10/10.1 and 10.3 Series.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76fc7d814967a4de",
+    "type": "split",
+    "children": [
+      {
+        "id": "61eecbf5152a54c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ebfc84ddeeda12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbc06e44af84c4d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83d8c322e55a3659",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "31755e5c098b4d7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "384e5451bea5b2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3debabc5581c541d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unit 10/10.1 and 10.3 Series.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9f5d51f3852a240",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unit 10/10.1 and 10.3 Series.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05fece44b5156124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "269d335b3604a5e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unit 10/10.1 and 10.3 Series.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bccf7f0877e9f3c8",
+  "lastOpenFiles": [
+    "Unit 10/10.1 and 10.3 Series.md",
+    "Unit 7/7.6 L'Hôpital's Rule.md",
+    "Unit 10/10.1 and 10.2 Sequences.md",
+    "Unit 8/8.8 Numerical Integration.md",
+    "Unit 8/8.9 Improper Integrals.md",
+    "Unit 8/8.3 Trigonometric Integrals.md",
+    "Unit 8/8.4 Trigonometric Substitutions.md",
+    "Unit 8/8.5 Partial Fractions.md",
+    "Unit 8/8.6 Integration Strategies.md",
+    "Unit 8/8.1 Integration Techniques & Basic Approaches.md"
+  ]
+}
